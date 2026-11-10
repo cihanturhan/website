@@ -1,0 +1,7 @@
+# GitHub Pages: diese Dateien/Ordner werden NICHT veröffentlicht
+exclude:
+  - intern/
+  - README.md
+  - "*.psd"
+  - "*.MOV"
+  - "*.mov"
